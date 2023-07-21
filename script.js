@@ -1,3 +1,3 @@
 const test= ()=>{
-  console.log('leee bl ya ml');
+  console.log('test');
 }
